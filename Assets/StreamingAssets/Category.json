@@ -1,0 +1,193 @@
+[
+
+  {
+    "CategoryId": 1,
+    "CategoryName": "Watches",
+    "Products": [
+      {
+        "ProductName": "Fossil"
+      },
+      {
+        "ProductName": "Titan"
+      },
+      {
+        "ProductName": "Fastrack"
+      },
+      {
+        "ProductName": "Michael Kors"
+      },
+      {
+        "ProductName": "Timex"
+      },
+      {
+        "ProductName": "Rolex"
+      },
+      {
+        "ProductName": "Emporio"
+      }
+    ]
+  },
+  {
+    "CategoryId": 2,
+    "CategoryName": "Shoes",
+    "Products": [
+      {
+        "ProductName": "Nike"
+      },
+      {
+        "ProductName": "Puma"
+      },
+      {
+        "ProductName": "Adidas"
+      },
+      {
+        "ProductName": "Allen solly"
+      },
+      {
+        "ProductName": "Bata"
+      },
+      {
+        "ProductName": "ASICS"
+      },
+      {
+        "ProductName": "Sketchers"
+      }
+    ]
+  },
+  {
+    "CategoryId": 3,
+    "CategoryName": "Bags",
+    "Products": [
+      {
+        "ProductName": "Wildcraft"
+      },
+      {
+        "ProductName": "Asus"
+      },
+      {
+        "ProductName": "Fastrack"
+      },
+      {
+        "ProductName": "Tommy Hilfiger"
+      },
+      {
+        "ProductName": "Baggit"
+      },
+      {
+        "ProductName": "Aristocrat"
+      },
+      {
+        "ProductName": "Van Heusen"
+      }
+    ]
+  },
+  {
+    "CategoryId": 4,
+    "CategoryName": "Laptops",
+    "Products": [
+      {
+        "ProductName": "HP"
+      },
+      {
+        "ProductName": "Asus"
+      },
+      {
+        "ProductName": "Acer"
+      },
+      {
+        "ProductName": "Dell"
+      },
+      {
+        "ProductName": "Lenovo"
+      },
+      {
+        "ProductName": "Sony"
+      },
+      {
+        "ProductName": "Samsung"
+      }
+    ]
+  },
+  {
+    "CategoryId": 5,
+    "CategoryName": "Mobiles",
+    "Products": [
+      {
+        "ProductName": "One Plus"
+      },
+      {
+        "ProductName": "Redme"
+      },
+      {
+        "ProductName": "Vivo"
+      },
+      {
+        "ProductName": "Oppo"
+      },
+      {
+        "ProductName": "IPhone"
+      },
+      {
+        "ProductName": "Samsung"
+      },
+      {
+        "ProductName": "Nokia"
+      }
+    ]
+  },
+  {
+    "CategoryId": 6,
+    "CategoryName": "TV",
+    "Products": [
+      {
+        "ProductName": "Sony Bravia"
+      },
+      {
+        "ProductName": "Samsung"
+      },
+      {
+        "ProductName": "LG"
+      },
+      {
+        "ProductName": "Mi"
+      },
+      {
+        "ProductName": "Panasonic"
+      },
+      {
+        "ProductName": "One plus"
+      },
+      {
+        "ProductName": "TCL"
+      }
+    ]
+  },
+  {
+    "CategoryId": 7,
+    "CategoryName": "Fridge",
+    "Products": [
+      {
+        "ProductName": "Whirlpool"
+      },
+      {
+        "ProductName": "Hitachi"
+      },
+      {
+        "ProductName": "TOSHIBA"
+      },
+      {
+        "ProductName": "LG"
+      },
+      {
+        "ProductName": "Haier"
+      },
+      {
+        "ProductName": "Bosch"
+      },
+      {
+        "ProductName": "Godrej"
+      }
+    ]
+  }
+]
+
