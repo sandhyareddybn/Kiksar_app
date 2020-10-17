@@ -38,4 +38,25 @@ public class DisplayProductList : MonoBehaviour
             }
         }
     }
+    public async void DeleteAllresultContainer(bool fromsearch,int id)
+    {
+        int count = 0;
+        foreach (Transform child in Container.transform)
+        {
+            GameObject.Destroy(child.gameObject);
+            count++;
+            Debug.Log("destory");
+        }
+        if (fromsearch)
+        {
+            if (Container.transform.childCount == count)
+            {
+                getProductList(id);
+            }
+        }
+        getProductList(id);
+    }
+
+  
+
 }

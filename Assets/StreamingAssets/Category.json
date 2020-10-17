@@ -2,28 +2,28 @@
 
   {
     "CategoryId": 1,
-    "CategoryName": "Watches",
+    "CategoryName": "Laptops",
     "Products": [
       {
-        "ProductName": "Fossil"
+        "ProductName": "HP"
       },
       {
-        "ProductName": "Titan"
+        "ProductName": "Asus"
       },
       {
-        "ProductName": "Fastrack"
+        "ProductName": "Acer"
       },
       {
-        "ProductName": "Michael Kors"
+        "ProductName": "Dell"
       },
       {
-        "ProductName": "Timex"
+        "ProductName": "Lenovo"
       },
       {
-        "ProductName": "Rolex"
+        "ProductName": "Sony"
       },
       {
-        "ProductName": "Emporio"
+        "ProductName": "Samsung"
       }
     ]
   },
@@ -81,30 +81,31 @@
       }
     ]
   },
+
   {
     "CategoryId": 4,
-    "CategoryName": "Laptops",
+    "CategoryName": "Watches",
     "Products": [
       {
-        "ProductName": "HP"
+        "ProductName": "Fossil"
       },
       {
-        "ProductName": "Asus"
+        "ProductName": "Titan"
       },
       {
-        "ProductName": "Acer"
+        "ProductName": "Fastrack"
       },
       {
-        "ProductName": "Dell"
+        "ProductName": "Michael Kors"
       },
       {
-        "ProductName": "Lenovo"
+        "ProductName": "Timex"
       },
       {
-        "ProductName": "Sony"
+        "ProductName": "Rolex"
       },
       {
-        "ProductName": "Samsung"
+        "ProductName": "Emporio"
       }
     ]
   },

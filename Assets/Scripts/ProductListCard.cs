@@ -9,6 +9,6 @@ public class ProductListCard : MonoBehaviour
     public Text ProductName;
     public void OnClickproduct()
     {
-
+        GameObject.Find("ProductName").GetComponent<Text>().text = ProductName.text;
     }
 }

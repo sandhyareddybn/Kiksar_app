@@ -448,7 +448,7 @@ MonoBehaviour:
   m_Padding:
     m_Left: 70
     m_Right: 70
-    m_Top: 0
+    m_Top: -5
     m_Bottom: 0
   m_ChildAlignment: 4
   m_Spacing: 125
@@ -1093,7 +1093,7 @@ GameObject:
   - component: {fileID: 1570212868}
   - component: {fileID: 1570212867}
   m_Layer: 5
-  m_Name: Text
+  m_Name: ProductName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1403,7 +1403,7 @@ MonoBehaviour:
   m_Padding:
     m_Left: 70
     m_Right: 70
-    m_Top: 0
+    m_Top: -5
     m_Bottom: 0
   m_ChildAlignment: 4
   m_Spacing: 125
@@ -1772,5 +1772,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bbb9c02bc22db5419edd9234f84dc13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CategoryPrefab: {fileID: 0}
+  CategoryPrefab: {fileID: 5438227680670721981, guid: b45fa23bf5600bc4dbc91c5fe0d24265,
+    type: 3}
   Container: {fileID: 1633644695}
