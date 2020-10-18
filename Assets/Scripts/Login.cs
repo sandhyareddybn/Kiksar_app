@@ -14,6 +14,7 @@ public class Login : MonoBehaviour
         if(!string.IsNullOrEmpty(name))
         {
             SceneManager.LoadScene("AppScene");
+           
         }
         else
         {

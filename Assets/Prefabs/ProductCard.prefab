@@ -294,3 +294,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ProductName: {fileID: 2202117251472480076}
+  Product: {fileID: 0}
+  Default_Object: {fileID: 8385602728841919368, guid: 31322a3edf2363d4b9547c922dd1bf8e,
+    type: 3}

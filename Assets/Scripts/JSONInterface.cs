@@ -62,8 +62,19 @@ public class JSONInterface : MonoBehaviour
     void Start()
     {
         DontDestroyOnLoad(Instance);
-        path = Application.streamingAssetsPath + "/Category.json";
-        jsonString = File.ReadAllText(path);
+       
+        if(Application.platform==RuntimePlatform.WindowsEditor)
+        {
+            path = Application.streamingAssetsPath + "/Category.json";
+             jsonString = File.ReadAllText(path);
+        }
+        else if(Application.platform==RuntimePlatform.Android)
+        {
+            TextAsset txtAsset = Resources.Load("Category") as TextAsset;
+            jsonString = txtAsset.ToString();
+        }
+
+       
         Debug.Log(jsonString);
        
      
@@ -71,7 +82,7 @@ public class JSONInterface : MonoBehaviour
     public async Task<Category[]> getCategoryData()
     {
         Category[] categories = null;
-        categories =JsonHelper.getJsonArray<Category>(jsonString);
+         categories =JsonHelper.getJsonArray<Category>(jsonString);
         return categories;
 
     }
