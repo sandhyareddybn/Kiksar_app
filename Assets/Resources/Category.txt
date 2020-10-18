@@ -191,21 +191,6 @@
       }
     ]
   }
-  //,
-  //{
-  //  "CategoryId": 8,
-  //  "CategoryName": "Headphones",
-  //  "Products": [
-  //    {
-  //      "ProductName": "Logitech"
-  //    },
-  //    {
-  //      "ProductName": "Boult"
-  //    },
-  //    {
-  //      "ProductName": "JBL"
-  //    }
-  //  ]
-  //}
+ 
 ]
 
